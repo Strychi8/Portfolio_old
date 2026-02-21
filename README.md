@@ -3,7 +3,7 @@
 <p align="center"> Este es el repositorio de mi sitio web personal donde muestro mis proyectos y habilidades como desarrollador. </p>
 
 ## 🔗 Demo
-Puedes visitar la web aquí: [Portfolio](https://strychy8-g.com)
+💼 **[Portfolio](https://strychi8.github.io/Portfolio_old/)**
 
 ## 🛠️ Stack
 
@@ -15,5 +15,12 @@ Puedes visitar la web aquí: [Portfolio](https://strychy8-g.com)
 
 ## 📬 Contacto
 ¿Tienes algun proyecto en mente? ¡Hablemos!
-- 👉 [LinkedIn](linkedin.com/in/tomas-strycharski/)
-- 📧 tomas2000T@gmail.com
+
+<div align="left">
+    <a href="https://linkedin.com/in/tomas-strycharski" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:tomas2000t@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+</div>
